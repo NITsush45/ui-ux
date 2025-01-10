@@ -45,7 +45,6 @@ const FAQPage = () => {
       >
         <h1
           className="text-4xl font-bold text-blue-600"
-          role="heading"
           aria-level="1"
         >
           FAQs
